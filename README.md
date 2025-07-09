@@ -4,6 +4,6 @@
 2. Java
 3. C++
 
-> Quando encaramos o abismo, ele nos encara de volta - Friedrich Nietzsche
+> Se você olhar por tempo suficiente para o abismo, o abismo também olhará para você
 
 ![Imagem de Nietzche](https://www.todoestudo.com.br/wp-content/uploads/2019/02/nieztsche.png)
