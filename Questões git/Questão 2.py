@@ -1,1 +1,0 @@
-linguagens = ["Python", "C++", "Java"]
